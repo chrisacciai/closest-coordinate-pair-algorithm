@@ -1,19 +1,3 @@
-# CS4102 Fall 2019 -- Homework 2
-#################################
-# Collaboration Policy: You are encouraged to collaborate with up to 4 other
-# students, but all work submitted must be your own independently written
-# solution. List the computing ids of all of your collaborators in the comment
-# at the top of your java or python file. Do not seek published or online
-# solutions for any assignments. If you use any published or online resources
-# (which may not include solutions) when completing this assignment, be sure to
-# cite them. Do not submit a solution that you are unable to explain orally to a
-# member of the course staff.
-#################################
-# Your Computing ID: cga4yc
-# Collaborators: arg5nq, jrk4mm
-# Sources: Introduction to Algorithms, Cormen
-#################################
-
 import math
 
 class ClosestPair:
